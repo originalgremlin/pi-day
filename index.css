@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0.3em 0;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: 0.3em 0;
+}
+
+marquee {
+    font-size: 2em;
+    color: red;
+}
+
+div.slides {
+    margin: 1.5em 0;
+}
+
+div.slides div {
+    display: inline-block;
+    margin: 0 50px;
+}
+
+div.slides img {
+    height: 300px;
+}
+
+div.slides h3 {
+    color: #cc66cc;
+    margin-top: 0;
+}

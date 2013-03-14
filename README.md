@@ -1,4 +1,4 @@
 pi-day
 ======
 
-Celebration of internation PI day party invite.
+Celebration of international PI day party invite.
